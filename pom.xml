@@ -164,7 +164,7 @@
 		<scala.version>2.11</scala.version>
 		<kafka.version>1.0.2</kafka.version>
 		<gson.version>2.3.1</gson.version>
-		<guava.version>27.0.1-jre</guava.version>
+		<guava.version>29.0-jre</guava.version>
 		<redis.version>2.9.0</redis.version>
 
 		<spring-boot.version>2.0.5.RELEASE</spring-boot.version>
